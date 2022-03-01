@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J4 NewDesignator=OUT
+Change Component Designator: OldDesignator=P13 NewDesignator=IN
+Change Component Designator: OldDesignator=P15 NewDesignator=GND
+Change Component Designator: OldDesignator=P16 NewDesignator=VCC
+Change Component Designator: OldDesignator=P17 NewDesignator=GND
+Change Component Designator: OldDesignator=P18 NewDesignator=VCC
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetOUT_1
+Added Member To Class: ClassName=TopSCH Member=Component P1 61300411121
+Added Room: Name=TopSCH
