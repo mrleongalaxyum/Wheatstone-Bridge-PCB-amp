@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetR1_1 New Net Name=OP1 -
+Change Net Name : Old Net Name=NetR3_1 New Net Name=OP1+
+Added Member To Class: ClassName=TopSCH Member=Component GND 61300411121
+Added Member To Class: ClassName=TopSCH Member=Component VCC 61300411121
+Added Room: Name=TopSCH

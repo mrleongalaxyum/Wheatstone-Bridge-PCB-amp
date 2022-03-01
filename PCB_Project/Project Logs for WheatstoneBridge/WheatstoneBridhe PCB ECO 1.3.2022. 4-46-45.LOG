@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=PWR
+Added Member To Class: ClassName=TopSCH Member=Component GND 61300411121
+Added Member To Class: ClassName=TopSCH Member=Component VCC 61300411121
