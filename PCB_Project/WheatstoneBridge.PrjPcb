@@ -54,7 +54,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,13 +64,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJKXDWMT
 
-[Parameter1]
-Name=revision
-Value=V1.0
+[Document2]
+DocumentPath=WheatstoneBridge.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[Document3]
+DocumentPath=WheatstoneBridhe.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVXDSMYP
+
+[Parameter1]
 Name=projTitle
 Value=Universal Wheatstone Bridge Amp
+
+[Parameter2]
+Name=revision
+Value=V1.0
 
 [Configuration1]
 Name=Sources
