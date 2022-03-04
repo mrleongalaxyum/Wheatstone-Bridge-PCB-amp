@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=TopSCH.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Amplifier.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Bridge & Switching.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Connectors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=PSU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Relay Control.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=TopSCH.SchDoc|SheetNumber=1
