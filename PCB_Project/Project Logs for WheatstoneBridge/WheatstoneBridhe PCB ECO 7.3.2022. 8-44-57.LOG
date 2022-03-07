@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=WH_VCC Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=WH_VCC Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=WH_VCC Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=WH_VCC Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=WH_VCC Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=WH_VCC Pin=C7-2
+Removed Pin From Net: NetName=AMP_IN+ Pin=C?-1
+Removed Pin From Net: NetName=AMP_IN- Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=GND?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=GND?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=GND?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=GND?-4
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=WH_VCC Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=OUT?-2
+Removed Pin From Net: NetName=GND Pin=PWR?-1
+Removed Pin From Net: NetName=AMP_IN- Pin=R1-2
+Removed Pin From Net: NetName=AMP_IN+ Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=WH_VCC Pin=RN?-1
+Removed Pin From Net: NetName=GND Pin=RN?-2
+Removed Pin From Net: NetName=GND Pin=RN?-3
+Removed Pin From Net: NetName=WH_A Pin=RN?-6
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=WH_VCC Pin=U1-8
+Removed Pin From Net: NetName=WH_VCC Pin=U?-1
+Removed Pin From Net: NetName=GND Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=GND Pin=U?-6
+Removed Pin From Net: NetName=GND Pin=U?-7
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-4
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Bridge & Switching Member=RN?
+Added Component: Designator=D1(FDLL4448)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//FDLL4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "512-FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FDLL4148"; VariantName = "[No Variations]"
+Added Component: Designator=D2(FDLL4448)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//FDLL4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "512-FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FDLL4148"; VariantName = "[No Variations]"
+Added Component: Designator=D3(FDLL4448)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//FDLL4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "512-FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FDLL4148"; VariantName = "[No Variations]"
+Added Component: Designator=D4(FDLL4448)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//FDLL4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "512-FDLL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FDLL4148"; VariantName = "[No Variations]"
+Added Component: Designator=RN1(SOIC127P607X173-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/60005/orn.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.73mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ORNTA1001BT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-ORNTA1001BT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Thin-Film/ORNTA1001BT1?qs=EiQZnNXpF8A9ZYJTqcYggA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=K1_COIL_P Pin=D1-1
+Added Pin To Net: NetName=WH_VCC Pin=RN1-1
+Added Pin To Net: NetName=GND Pin=RN1-2
+Added Pin To Net: NetName=GND Pin=RN1-3
+Added Pin To Net: NetName=WH_A Pin=RN1-6
+Add Net: Net with name "K1_COIL_N" already exists
+Added Pin To Net: NetName=K2_COIL_N Pin=D2-2
+Added Net: Name=K2_COIL_N
+Add Net: Net with name "K2_COIL_P" already exists
+Add Net: Net with name "K3_COIL_N" already exists
+Add Net: Net with name "K3_COIL_P" already exists
+Add Net: Net with name "K4_COIL_N" already exists
+Add Net: Net with name "K4_COIL_P" already exists
+Added Pin To Net: NetName=NetRN1_7 Pin=RN1-7
+Added Pin To Net: NetName=NetRN1_7 Pin=RN1-8
+Added Net: Name=NetRN1_7
+Change Class Name : Old Net Name=Bridge & Switching New Net Name=U_Bridge & Switching
+Added Class: Name=U_Relay Control
+Added Member To Class: ClassName=U_Bridge & Switching Member=Component RN1 ORNTA1001BT1
+Change Room Name: Old Name=Connectors New Name=U_Relay Control
+Change Room Scope: Old Scope=InComponentClass('Connectors') New Scope=InComponentClass('U_Relay Control')
+Change Room Name: Old Name=PSU New Name=U_Bridge & Switching
+Change Room Scope: Old Scope=InComponentClass('PSU') New Scope=InComponentClass('U_Bridge & Switching')
