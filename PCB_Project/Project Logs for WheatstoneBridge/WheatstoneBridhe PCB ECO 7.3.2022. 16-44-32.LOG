@@ -1,0 +1,176 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=IN- Pin=J?-2
+Removed Pin From Net: NetName=WH_VCC Pin=J?-2
+Removed Pin From Net: NetName=OP1 - Pin=R1-1
+Removed Pin From Net: NetName=AMP_IN- Pin=R1-2
+Removed Pin From Net: NetName=OP1+ Pin=R2-1
+Removed Pin From Net: NetName=AMP_IN+ Pin=R2-2
+Removed Pin From Net: NetName=NetR3_2 Pin=R6-1
+Removed Pin From Net: NetName=NetOUT?_1 Pin=R6-2
+Removed Pin From Net: NetName=NetR3_2 Pin=R7-1
+Removed Pin From Net: NetName=NetOUT?_1 Pin=R7-2
+Removed Pin From Net: NetName=WH_VCC Pin=RN?-1
+Removed Pin From Net: NetName=GND Pin=RN?-2
+Removed Pin From Net: NetName=GND Pin=RN?-3
+Removed Pin From Net: NetName=WH_A Pin=RN?-6
+Change Component Footprint: Designator=R6 Old Footprint=ERA2A_(0402) New Footprint=RESC1005X35N
+Change Component Footprint: Designator=R7 Old Footprint=ERA2A_(0402) New Footprint=RESC1005X35N
+Change Component Footprint: Designator=R4 Old Footprint=ERJ2R_(0402) New Footprint=RESC1005X35N
+Change Component Footprint: Designator=R5 Old Footprint=ERJ2R_(0402) New Footprint=RESC1005X35N
+Change Component Footprint: Designator=R1 Old Footprint=ERJS02_U02_(0402) New Footprint=ERA2V_(0402)
+Change Component Footprint: Designator=R2 Old Footprint=ERJS02_U02_(0402) New Footprint=ERA2V_(0402)
+Change Component Footprint: Designator=R3 Old Footprint=ERJS02_U02_(0402) New Footprint=ERA2V_(0402)
+Change component parameters: Designator = "R1" ("R1"); Footprint = "ERJS02_U02_(0402)"; UniqueID = "\ZHVBDYOB" ("\ZHVBDYOB")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-2VEB1001X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "ERJS02_U02_(0402)"; UniqueID = "\TLMPKJKW" ("\TLMPKJKW")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-2VEB1001X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "ERJS02_U02_(0402)"; UniqueID = "\RUJTMKJY" ("\RUJTMKJY")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-2VEB1001X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "ERJ2R_(0402)"; UniqueID = "\SXXFAPAW" ("\SXXFAPAW")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B150KE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "ERJ2R_(0402)"; UniqueID = "\JVOUWTUX" ("\JVOUWTUX")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B150KE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "ERA2A_(0402)"; UniqueID = "\YEUDNCPQ" ("\YEUDNCPQ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B18KE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "ERA2A_(0402)"; UniqueID = "\IRJJOFIL" ("\IRJJOFIL")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B18KE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.it/datasheet/2/408/TB67H451FNG_datasheet_en_20191111-1713881.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB67H451FNG,EL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.it/datasheet/2/408/TB67H451FNG_datasheet_en_20191111-1713881.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB67H451FNG,EL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC127P1030X265-20N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATtiny1624-26-27-DataSheet-DS40002234B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATTINY1626-SF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(ERA2V_(0402))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-2VEB1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1005X35N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B18KE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RN1(SOIC127P607X173-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/60005/orn.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.73mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ORNTA1001BT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-ORNTA1001BT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Thin-Film/ORNTA1001BT1?qs=EiQZnNXpF8A9ZYJTqcYggA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=K1_COIL_P Pin=IC?-6
+Added Pin To Net: NetName=K2_COIL_P Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=K1_COIL_N Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=IC?-20
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=IN- Pin=J?-2
+Added Pin To Net: NetName=WH_VCC Pin=J?-2
+Added Pin To Net: NetName=K1_COIL_P Pin=K3-1
+Added Pin To Net: NetName=K1_COIL_N Pin=K3-8
+Added Pin To Net: NetName=K2_COIL_P Pin=K4-1
+Added Pin To Net: NetName=AMP_IN- Pin=R1-1
+Added Pin To Net: NetName=OP1 - Pin=R1-2
+Added Pin To Net: NetName=AMP_IN+ Pin=R2-1
+Added Pin To Net: NetName=OP1+ Pin=R2-2
+Added Pin To Net: NetName=WH_VCC Pin=RN1-1
+Added Pin To Net: NetName=GND Pin=RN1-2
+Added Pin To Net: NetName=GND Pin=RN1-3
+Added Pin To Net: NetName=WH_A Pin=RN1-6
+Added Pin To Net: NetName=+5 Pin=IC?-1
+Added Pin To Net: NetName=+5 Pin=IC?-4
+Added Pin To Net: NetName=+5 Pin=IC?-4
+Added Net: Name=+5
+Add Net: Net with name "IN+" already exists
+Added Pin To Net: NetName=K2_COIL_N Pin=IC?-8
+Added Pin To Net: NetName=K2_COIL_N Pin=K4-8
+Added Net: Name=K2_COIL_N
+Added Pin To Net: NetName=K13_CTRL_1 Pin=IC?-2
+Added Net: Name=K13_CTRL_1
+Added Pin To Net: NetName=K13_CTRL_2 Pin=IC?-3
+Added Net: Name=K13_CTRL_2
+Added Pin To Net: NetName=K24_CTRL_1 Pin=IC?-2
+Added Net: Name=K24_CTRL_1
+Added Pin To Net: NetName=K24_CTRL_2 Pin=IC?-3
+Added Net: Name=K24_CTRL_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetRN1_7 Pin=RN1-7
+Added Pin To Net: NetName=NetRN1_7 Pin=RN1-8
+Added Net: Name=NetRN1_7
+Added Pin To Net: NetName=UPDI/RESET Pin=IC?-16
+Added Net: Name=UPDI/RESET
+Change Class Name : Old Net Name=U_Bridge & Switching New Net Name=Bridge & Switching
+Added Class: Name=Amplifier
+Added Class: Name=Connectors
+Added Class: Name=MCU
+Added Class: Name=PSU
+Added Class: Name=Relay Control
+Added Member To Class: ClassName=Bridge & Switching Member=Component RN1 ORNTA1001BT1
+Added Room: Name=MCU
+Added Room: Name=Relay Control

@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=MCU Member=IC?
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Add Net: Net with name "IN+" already exists
+Added Member To Class: ClassName=Connectors Member=Component GND? 61300411121
+Added Member To Class: ClassName=Relay Control Member=Component IC2 TB67H451FNG,EL
+Added Member To Class: ClassName=MCU Member=Component IC3 ATTINY1626-SF
+Added Member To Class: ClassName=Connectors Member=Component J2 691214110002
+Added Member To Class: ClassName=Connectors Member=Component VCC? 61300411121

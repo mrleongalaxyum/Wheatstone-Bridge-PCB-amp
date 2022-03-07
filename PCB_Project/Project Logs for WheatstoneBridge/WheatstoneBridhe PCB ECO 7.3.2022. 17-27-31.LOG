@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=GND?-1
+Removed Pin From Net: NetName=GND Pin=GND?-2
+Removed Pin From Net: NetName=GND Pin=GND?-3
+Removed Pin From Net: NetName=GND Pin=GND?-4
+Removed Pin From Net: NetName=NetOUT?_1 Pin=OUT?-1
+Removed Pin From Net: NetName=GND Pin=OUT?-2
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-1
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-2
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-3
+Removed Pin From Net: NetName=WH_VCC Pin=VCC?-4
+Removed Member From Class: ClassName=Amplifier Member=OUT?
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Net Name : Old Net Name=NetOUT?_1 New Net Name=OUT_P
+Change Net Name : Old Net Name=NetR3_2 New Net Name=OP2-
+Add Net: Net with name "IN+" already exists
+Added Member To Class: ClassName=Relay Control Member=Component IC? TB67H451FNG,EL
+Added Member To Class: ClassName=Connectors Member=Component J1 691214110002
+Added Member To Class: ClassName=Connectors Member=Component OUT? 691214110002

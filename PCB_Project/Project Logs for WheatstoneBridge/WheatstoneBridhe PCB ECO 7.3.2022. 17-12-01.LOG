@@ -1,0 +1,23 @@
+Added Component: Designator=S1(2193LPSTR)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ctscorp.com/wp-content/uploads/219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "219-3LPSTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR6_2 Pin=S1-1
+Added Pin To Net: NetName=NetOUT?_1 Pin=S1-4
+Added Pin To Net: NetName=NetOUT?_1 Pin=S1-5
+Added Pin To Net: NetName=NetOUT?_1 Pin=S1-6
+Add Net: Net with name "IN+" already exists
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=S1-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=S1-3
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=Connectors Member=Component GND? 61300411121
+Added Member To Class: ClassName=Relay Control Member=Component IC? TB67H451FNG,EL
+Added Member To Class: ClassName=Connectors Member=Component J? 691214110002
+Added Member To Class: ClassName=Amplifier Member=Component S1 DIP SWITCH
+Added Member To Class: ClassName=Connectors Member=Component VCC? 61300411121
