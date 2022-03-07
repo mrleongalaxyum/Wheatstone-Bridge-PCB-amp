@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=K1 Old Footprint=UD212NU New Footprint=214620381
+Change Component Footprint: Designator=K2 Old Footprint=UD212NU New Footprint=214620381
+Change Component Footprint: Designator=K3 Old Footprint=UD212NU New Footprint=214620381
+Change Component Footprint: Designator=K4 Old Footprint=UD212NU New Footprint=214620381
+Change Component Comment : Designator=K1 Old Comment=UD2-12NU New Comment=2-1462038-1
+Change Component Comment : Designator=K2 Old Comment=UD2-12NU New Comment=2-1462038-1
+Change Component Comment : Designator=K3 Old Comment=UD2-12NU New Comment=2-1462038-1
+Change Component Comment : Designator=K4 Old Comment=UD2-12NU New Comment=2-1462038-1
+Change component parameters: Designator = "K1" ("K1"); Footprint = "UD212NU"; UniqueID = "\KJBTBOQW\RZGBJNUC" ("\KJBTBOQW\RZGBJNUC")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=Data+Sheet&DocLang=English&PartCntxt=2-1462038-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1462038-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2" ("K2"); Footprint = "UD212NU"; UniqueID = "\KJBTBOQW\QFJSGZHA" ("\KJBTBOQW\QFJSGZHA")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=Data+Sheet&DocLang=English&PartCntxt=2-1462038-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1462038-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3" ("K3"); Footprint = "UD212NU"; UniqueID = "\KJBTBOQW\OJKBXMJE" ("\KJBTBOQW\OJKBXMJE")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=Data+Sheet&DocLang=English&PartCntxt=2-1462038-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1462038-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4" ("K4"); Footprint = "UD212NU"; UniqueID = "\KJBTBOQW\TEJSDDXM" ("\KJBTBOQW\TEJSDDXM")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=Data+Sheet&DocLang=English&PartCntxt=2-1462038-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1462038-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=K24_N Pin=K2-8
