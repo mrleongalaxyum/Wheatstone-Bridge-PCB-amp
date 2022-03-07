@@ -1,0 +1,15 @@
+Change Class Name : Old Net Name=Amplifier New Net Name=U_Amplifier
+Change Class Name : Old Net Name=Bridge & Switching New Net Name=U_Bridge & Switching
+Change Class Name : Old Net Name=Connectors New Net Name=U_Connectors
+Change Class Name : Old Net Name=MCU New Net Name=U_MCU
+Change Class Name : Old Net Name=PSU New Net Name=U_PSU
+Change Class Name : Old Net Name=Relay Control New Net Name=U_Relay Control
+Change Room Name: Old Name=MCU New Name=U_MCU
+Change Room Scope: Old Scope=InComponentClass('MCU') New Scope=InComponentClass('U_MCU')
+Change Room Name: Old Name=PSU New Name=U_PSU
+Change Room Scope: Old Scope=InComponentClass('PSU') New Scope=InComponentClass('U_PSU')
+Change Room Name: Old Name=Relay Control New Name=U_Relay Control
+Change Room Scope: Old Scope=InComponentClass('Relay Control') New Scope=InComponentClass('U_Relay Control')
+Added Room: Name=U_Amplifier
+Added Room: Name=U_Bridge & Switching
+Added Room: Name=U_Connectors
