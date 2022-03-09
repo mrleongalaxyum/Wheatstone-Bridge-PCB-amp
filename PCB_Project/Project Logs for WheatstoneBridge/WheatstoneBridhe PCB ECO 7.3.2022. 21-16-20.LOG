@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=+5 Pin=C16-2
+Added Pin To Net: NetName=+5 Pin=C17-2
+Added Pin To Net: NetName=+5 Pin=IC1-5
+Added Pin To Net: NetName=+5 Pin=IC2-5
+Added Pin To Net: NetName=+10 Pin=K2-4
+Added Pin To Net: NetName=+10 Pin=RN1-1
+Change Net Name : Old Net Name=+10 New Net Name=WH_VCC
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Added Room: Name=U_Amplifier
+Added Room: Name=U_Bridge & Switching
+Added Room: Name=U_Connectors
+Added Room: Name=U_MCU
+Added Room: Name=U_PSU
+Added Room: Name=U_Relay Control
