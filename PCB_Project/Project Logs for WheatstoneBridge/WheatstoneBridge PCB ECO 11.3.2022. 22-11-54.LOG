@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetIC3_2 Pin=LED4-2
+Removed Pin From Net: NetName=+5 Pin=R20-1
+Added Pin To Net: NetName=+5 Pin=LED4-1
+Added Pin To Net: NetName=NetIC3_2 Pin=R20-2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R20-1
+Added Net: Name=NetLED4_2
+Added Member To Class: ClassName=U_MCU Member=Component LED2 Blue
+Added Room: Name=U_Amplifier
+Added Room: Name=U_Bridge & Switching
+Added Room: Name=U_Connectors
+Added Room: Name=U_MCU
+Added Room: Name=U_PSU
+Added Room: Name=U_Relay Control
