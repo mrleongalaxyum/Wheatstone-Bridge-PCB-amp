@@ -217,13 +217,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIBFCUHQ
 
-[Parameter1]
-Name=revision
-Value=V1.0
+[GeneratedDocument1]
+DocumentPath=Project Outputs for WheatstoneBridge\Design Rule Check - WheatstoneBridge.html
+DItemRevisionGUID=
 
-[Parameter2]
+[Parameter1]
 Name=projTitle
 Value=Universal Wheatstone Bridge Amp
+
+[Parameter2]
+Name=revision
+Value=V1.0
 
 [Configuration1]
 Name=Sources
