@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=WH_VCC Pin=U1-8
+Added Member To Class: ClassName=U_MCU Member=Component C13 1uF
+Added Member To Class: ClassName=U_MCU Member=Component C14 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C15 1nF
+Added Room: Name=U_Amplifier
+Added Room: Name=U_Bridge & Switching
+Added Room: Name=U_Connectors
+Added Room: Name=U_MCU
+Added Room: Name=U_PSU
+Added Room: Name=U_Relay Control
