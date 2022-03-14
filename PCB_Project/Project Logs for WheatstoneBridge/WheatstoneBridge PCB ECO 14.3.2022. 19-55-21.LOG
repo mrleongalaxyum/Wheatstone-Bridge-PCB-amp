@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=AMP_IN+ New Net Name=AMP_IN_P
+Change Net Name : Old Net Name=AMP_IN- New Net Name=AMP_IN_N
+Added Differential Pair: Name=AMP_IN
+Added Differential Pair: Name=FULL_BR
+Add Differential Pair: Number of nets in differential pair IN+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN- is 1 instead of 2
+Added Differential Pair: Name=PART2_BR
+Added Differential Pair: Name=PART_BR_IN
