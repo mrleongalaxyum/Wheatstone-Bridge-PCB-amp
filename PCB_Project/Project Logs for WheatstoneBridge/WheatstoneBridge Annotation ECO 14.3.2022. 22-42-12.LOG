@@ -1,0 +1,3 @@
+Change Component Physical Designator: Old Designator=5V_PWR New Designator=5V_LED
+Change Component Physical Designator: Old Designator=12V_PWR New Designator=12V_LED
+Change Component Physical Designator: Old Designator=PWR_IN New Designator=12V_IN
