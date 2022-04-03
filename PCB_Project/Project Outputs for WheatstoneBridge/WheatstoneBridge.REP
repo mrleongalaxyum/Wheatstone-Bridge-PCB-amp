@@ -1,0 +1,400 @@
+*************************************************************
+FileName = WheatstoneBridge.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : WheatstoneBridge.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D64
+    D65
+    D67
+    D68
+    D69
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : WheatstoneBridge.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : WheatstoneBridge.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : WheatstoneBridge.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : WheatstoneBridge.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : WheatstoneBridge.GM4
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D77
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : WheatstoneBridge.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : WheatstoneBridge.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D64
+    D65
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : WheatstoneBridge.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : WheatstoneBridge.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : WheatstoneBridge.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D64
+    D65
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WheatstoneBridge.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WheatstoneBridge.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : WheatstoneBridge.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : WheatstoneBridge.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WheatstoneBridge.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : WheatstoneBridge.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D64
+    D65
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom Tenting
+      File : WheatstoneBridge.GM6
+
+    Adding Layer      : Bottom Tenting
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : WheatstoneBridge.GM7
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : WheatstoneBridge.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : WheatstoneBridge.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WheatstoneBridge.PcbDoc   15.3.2022.  21:27:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WheatstoneBridge.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             145       PTH        12.65inch (321.24mm)
+T2      28mil (0.711mm)                                           Round             2         PTH        0.70inch (17.88mm)
+T3      30mil (0.749mm)                                           Round             32        PTH        4.76inch (121.00mm)
+T4      39mil (1.001mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T5      51mil (1.3mm)                                             Round             8         PTH        5.42inch (137.75mm)
+T6      134mil (3.401mm)                                          Round             4         PTH        6.57inch (167.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              194
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,13 +1,17 @@
 Protel Design System Design Rule Check
 PCB File : D:\OneDrive - fer.hr\FER\6. semestar\Zavrsni\Wheatstone\Wheatstone Altium\PCB_Project\WheatstoneBridge.PcbDoc
-Date     : 14.3.2022.
-Time     : 22:04:38
+Date     : 15.3.2022.
+Time     : 17:48:41
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Polygon Region (88 hole(s)) Top Layer And Text "+" (11.303mm,38.862mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Polygon Region (88 hole(s)) Top Layer And Text "+" (20.828mm,38.227mm) on Top Layer 
+Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+   Violation between Short-Circuit Constraint: Between Polygon Region (88 hole(s)) Top Layer And Text "+" (11.303mm,38.862mm) on Top Layer Location : [X = 11.624mm][Y = 39.342mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (88 hole(s)) Top Layer And Text "+" (20.828mm,38.227mm) on Top Layer Location : [X = 21.149mm][Y = 38.707mm]
+Rule Violations :2
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -35,11 +39,19 @@ Processing Rule : Silk To Solder Mask (Clearance=0.152mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.152mm) Between Arc (42.545mm,17.5mm) on Top Overlay And Pad C8-1(42.333mm,17.78mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.152mm) Between Arc (50.038mm,34.482mm) on Top Overlay And Pad R13-1(50.038mm,34.044mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.15mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.15mm < 0.152mm) Between Arc (52.832mm,38.03mm) on Top Overlay And Pad R20-1(52.832mm,37.592mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.15mm]
-Rule Violations :4
+   Violation between Silk To Solder Mask Clearance Constraint: (0.076mm < 0.152mm) Between Pad C5-1(10.414mm,11.176mm) on Top Layer And Text "+" (8.636mm,9.398mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.076mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.145mm < 0.152mm) Between Pad C5-2(10.414mm,10.076mm) on Top Layer And Text "+" (8.636mm,9.398mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.145mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.152mm) Between Pad RN1-8(32.758mm,19.939mm) on Top Layer And Text "Universal Wheatstone 
+Bridge Amplifier V1.0
+Leon Bazdar" (13.208mm,14.859mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :7
 
 Processing Rule : Silk to Silk (Clearance=0.152mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.114mm < 0.152mm) Between Arc (50.673mm,15.595mm) on Top Overlay And Text "R11" (51.173mm,15.944mm) on Top Overlay Silk Text to Silk Clearance [0.114mm]
-Rule Violations :1
+   Violation between Silk To Silk Clearance Constraint: (0.101mm < 0.152mm) Between Arc (9.17mm,41.402mm) on Top Overlay And Text "R23" (10.279mm,41.72mm) on Top Overlay Silk Text to Silk Clearance [0.101mm]
+   Violation between Silk To Silk Clearance Constraint: (0.083mm < 0.152mm) Between Text "UDPI" (31.608mm,40.267mm) on Top Overlay And Track (35.208mm,34.136mm)(35.208mm,41.336mm) on Top Overlay Silk Text to Silk Clearance [0.083mm]
+   Violation between Silk To Silk Clearance Constraint: (0.092mm < 0.152mm) Between Text "UDPI" (31.608mm,40.267mm) on Top Overlay And Track (35.208mm,41.336mm)(48.008mm,41.336mm) on Top Overlay Silk Text to Silk Clearance [0.092mm]
+Rule Violations :4
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -54,6 +66,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 5
+Violations Detected : 15
 Waived Violations : 0
 Time Elapsed        : 00:00:01
